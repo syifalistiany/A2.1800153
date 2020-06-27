@@ -1,5 +1,5 @@
-Nama : Encep Hendri Setiawan <br>
-NIM : A2.1800149 <br>
+Nama : Juliana Syifa Listiany <br>
+NIM : A2.1800153 <br>
 Kelas : TI - IV E <br>
 Link : <a href="https://a21800155.000webhostapp.com" target="_blank">klik disini</a>
 
