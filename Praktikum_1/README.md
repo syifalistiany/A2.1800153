@@ -5,5 +5,5 @@ Link : <a href="https://a21800155.000webhostapp.com" target="_blank">klik disini
 
 <tr>
      <!-- Baris 2 Max 7 Akun -->
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61769361?s=460&u=63a3756b2880bc06bafb56f49f64f9427085c7ee&v=4" width="100px;" alt=""/><br /><sub><b>Juliana Syifa Listianyi</b></sub></a><br /><a href="#" title="https://github.com/syifalistiany/PABWEB-E">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61871644?s=460&u=7d5369d97dbc9d0ec22c35e85ceb50ba97305219&v=4" width="100px;" alt=""/><br /><sub><b>Juliana Syifa Listianyi</b></sub></a><br /><a href="#" title="https://github.com/syifalistiany/PABWEB-E">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
